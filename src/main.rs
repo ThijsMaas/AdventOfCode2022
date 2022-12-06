@@ -14,6 +14,7 @@ fn main() {
         "day3" => day3::solution(),
         "day4" => day4::solution(),
         "day5" => day5::solution(),
+        "day6" => day6::solution(),
         _ => panic!("Argument not supported"),
     }
 }
